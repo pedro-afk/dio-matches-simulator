@@ -8,3 +8,6 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/pedro-afk/dio-matches-simulator/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android.
     - [release/java-e-kotlin-juntos](https://github.com/pedro-afk/dio-matches-simulator/tree/release/java-e-kotlin-juntos)
+4. Explorando o Firebase para apps resilientes
+    - [release/explorando-o-firebase-para-apps-resilientes](https://github.com/pedro-afk/dio-matches-simulator/tree/release/explorando-o-firebase-para-apps-resilientes)
+
