@@ -50,6 +50,8 @@ dependencies {
 
     // Add Crashlytics
     implementation platform('com.google.firebase:firebase-bom:30.1.0')
+    implementation 'com.google.firebase:firebase-crashlytics'
+    implementation 'com.google.firebase:firebase-analytics'
 
     // Retrofit (HTTP Client)
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
