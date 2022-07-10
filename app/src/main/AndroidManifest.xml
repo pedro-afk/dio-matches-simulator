@@ -14,6 +14,7 @@
         android:theme="@style/Theme.Simulator"
         tools:targetApi="31">
         <activity
+            android:theme="@style/Theme.Simulator"
             android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
@@ -24,6 +25,7 @@
         </activity>
         <!-- android:theme="@style/Theme.Simulator.NoActionBar" -->
         <activity
+            android:theme="@style/Theme.Simulator.NoActionBar"
             android:name=".ui.DetailActivity"
             android:exported="true"
             android:parentActivityName=".ui.MainActivity" />
